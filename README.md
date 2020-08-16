@@ -1,9 +1,9 @@
 # E-commerce Back End
 A backend e-commerce API
 
-[Walkthroug-Tutorial](https://drive.google.com/file/d/1qzqBGVWardWbyQiiaOtmTZT-zggzaNGI/view)
+[Walkthrough-Tutorial](https://drive.google.com/file/d/1qzqBGVWardWbyQiiaOtmTZT-zggzaNGI/view)
 
-<img src ="C:\Users\Brandon McGuire\Desktop\projects\fantastic-umbrella\images\ecommerce-insomnia.jpg">
+<img src ="images\ecommerce-insomnia.jpg">
 
 ## Installation
 
